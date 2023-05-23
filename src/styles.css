@@ -1,0 +1,9 @@
+* {
+  text-align: center;
+}
+
+.text {
+  font-family: 'Bangers', cursive;
+  font-weight: 100;
+  border-radius: 8px;
+}
